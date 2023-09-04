@@ -1,0 +1,10 @@
+.quickSettings_div {
+  margin-top: 20%;
+}
+.scrollable_div {
+  max-height: 100vh; /* Set the maximum height for the scrollable area */
+  overflow-y: auto; /* Enable vertical scrolling */
+  /* Customize the scrollbar */
+  scrollbar-width: none; /* Show scrollbar even when not hovering */
+  scrollbar-color: #555555 #f0f0f0; /* Track color and thumb color */
+}

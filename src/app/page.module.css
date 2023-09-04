@@ -1,0 +1,28 @@
+/* .main_div {
+  background-color: aqua;
+}
+
+.side_nav {
+}
+.sidebar_navigation_div {
+  background: #2e2e2e;
+  height: 100vh;
+}
+
+.navigation_text {
+  color: #26a69a;
+  padding: 10px 0 0 10px;
+  font-weight: 300;
+  place-items: center;
+}
+
+.hori_border {
+  border: 1px solid #333333;
+} */
+
+.page_div {
+  margin-top: 6%;
+}
+.home_sidebar {
+  border-right: 1px solid gray;
+}
